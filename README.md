@@ -1,29 +1,32 @@
-#### 👋 Hey, I'm Asif!  
-🔹 A **Software Engineer** specializing in **Full-Stack Development** with a passion for crafting scalable and high-performance web applications.  
-🔹 Currently working at **[Interlink Techsoft Ltd.](https://www.intertechbd.com/)**, where I design and develop cutting-edge software solutions.  
+Here’s your refined bio without icons, keeping it clean and professional:  
 
-#### 💼 What I’m Working On  
-🔹 **[Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system)** – Enhancing automation and business workflow efficiency.  
-🔹 Building **scalable backend architectures** and improving system performance.  
+---
 
-#### 📚 Currently Learning  
-🎯 Mastering **Advanced System Design** and **Backend Optimization**.  
-🚀 Strengthening my **CSE fundamentals** with **[Phitron](https://phitron.io/)**.  
+### Hey, I'm Asif  
+A Software Engineer passionate about Full-Stack Development and building scalable, high-performance web applications.  
+Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.intertechbd.com/).  
 
-#### 💡 My Expertise  
-💻 **Languages & Frameworks:** Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
-☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines  
-🛠 **Databases & Tools:** PostgreSQL, MongoDB, Redis, Prisma, Elasticsearch  
-⚙️ **System Design & Performance Optimization**  
+### What I’m Working On  
+- Building enterprise-grade backend architectures for seamless automation.  
+- Contributing to the [Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system) for enhanced business workflows.  
 
-#### 📢 Ask Me About  
-🚀 **Scalable Web Solutions** – High-performance architectures, caching strategies, and microservices.  
-🛠 **Backend Engineering** – Building robust APIs, database design, and security best practices.  
-💡 **Tech Leadership** – Code reviews, software architecture, and project planning.  
+### Growing Every Day  
+- Diving deep into Advanced System Design & Backend Optimization.  
+- Sharpening my CSE fundamentals with [Phitron](https://phitron.io/).  
 
-#### ⚡ Fun Fact  
-💡 I believe **every bug is a puzzle**, and I love the thrill of debugging complex issues! 🚀  
+### Tech Stack & Expertise  
+- **Languages & Frameworks** → Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
+- **Cloud & DevOps** → AWS, Docker, Kubernetes, CI/CD Pipelines  
+- **Databases & Tools** → PostgreSQL, MongoDB, Redis, Prisma, Elasticsearch  
+- **Optimizing Performance & Scaling Systems**  
 
+### Let’s Talk About  
+- Scalable Web Solutions – Efficient architecture, caching, and microservices.  
+- Backend Engineering – APIs, database design, and best practices.  
+- Tech Leadership – Software architecture, code reviews, and project planning.  
+
+### Fun Fact  
+I see every bug as a mystery to solve—the joy of debugging fuels my passion for coding!  
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadasif.cse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadasif_cse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadasif-cse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammadasifcse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@muhammadasif_cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadasif.cse@gmail.com) 
