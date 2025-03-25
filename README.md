@@ -3,59 +3,10 @@
 **Full-Stack Developer | Scalable Solutions Expert**  
 Currently at: [Interlink Techsoft Ltd.](https://www.intertechbd.com/)  
 
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <tr style="background-color: #f5f5f5;">
-    <th style="padding: 10px; border: 1px solid #ddd;">
-      ### Current Projects
-    </th>
-    <th style="padding: 10px; border: 1px solid #ddd;">
-      ### Skill Development
-    </th>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      - **Enterprise Backend Architecture**: Building robust systems for seamless automation.<br>
-      - **Office Management System**: Enhancing business workflows ([GitHub Link](https://github.com/InterlinkTechnologiesLtd/office-management-system)).
-    </td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      - **Advanced System Design**: Focusing on optimization and scalability.<br>
-      - **CSE Fundamentals**: Strengthening my core with [Phitron](https://phitron.io/).
-    </td>
-  </tr>
-  <tr style="background-color: #f5f5f5;">
-    <th style="padding: 10px; border: 1px solid #ddd;">
-      ### Technical Expertise
-    </th>
-    <th style="padding: 10px; border: 1px solid #ddd;">
-      ### Discussion Topics
-    </th>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      - **Languages & Frameworks**: Java, Python, TypeScript, Next.js, Spring Boot, Nest.js<br>
-      - **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD Pipelines<br>
-      - **Databases & Tools**: PostgreSQL, MySQL, MongoDB, Redis, Prisma<br>
-      - **Specialization**: Performance optimization and system scaling
-    </td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      - **Scalable Web Solutions**: Architecture, caching, microservices<br>
-      - **Backend Engineering**: APIs, database design, best practices<br>
-      - **Tech Leadership**: Software planning, code reviews, execution
-    </td>
-  </tr>
-</table>
+<table style="width: 100%; border-collapse: collapse; text-align: center;"> <tr style="background-color: #f5f5f5;"> <th style="padding: 10px; border: 1px solid #ddd;"> <h3>Current Projects</h3> </th> <th style="padding: 10px; border: 1px solid #ddd;"> <h3>Skill Development</h3> </th> </tr> <tr> <td style="padding: 10px; border: 1px solid #ddd;"> - <strong>Enterprise Backend Architecture</strong>: Building robust systems for seamless automation.<br> - <strong>Office Management System</strong>: Enhancing business workflows (<a href="https://github.com/InterlinkTechnologiesLtd/office-management-system">GitHub Link</a>). </td> <td style="padding: 10px; border: 1px solid #ddd;"> - <strong>Advanced System Design</strong>: Focusing on optimization and scalability.<br> - <strong>CSE Fundamentals</strong>: Strengthening my core with <a href="https://phitron.io/">Phitron</a>. </td> </tr> <tr style="background-color: #f5f5f5;"> <th style="padding: 10px; border: 1px solid #ddd;"> <h3>Technical Expertise</h3> </th> <th style="padding: 10px; border: 1px solid #ddd;"> <h3>Discussion Topics</h3> </th> </tr> <tr> <td style="padding: 10px; border: 1px solid #ddd;"> - <strong>Languages & Frameworks</strong>: Java, Python, TypeScript, Next.js, Spring Boot, Nest.js<br> - <strong>Cloud & DevOps</strong>: AWS, Docker, Kubernetes, CI/CD Pipelines<br> - <strong>Databases & Tools</strong>: PostgreSQL, MySQL, MongoDB, Redis, Prisma<br> - <strong>Specialization</strong>: Performance optimization and system scaling </td> <td style="padding: 10px; border: 1px solid #ddd;"> - <strong>Scalable Web Solutions</strong>: Architecture, caching, microservices<br> - <strong>Backend Engineering</strong>: APIs, database design, best practices<br> - <strong>Tech Leadership</strong>: Software planning, code reviews, execution </td> </tr> </table>
 
 ### Fun Fact  
 I love solving bugs—each one’s a new challenge that fuels my passion!  
-
-### কেন এটা সুন্দর ও গুছানো?  
-- **টেবিলের স্টাইল**: হালকা ব্যাকগ্রাউন্ড কালার (#f5f5f5) এবং বর্ডার (#ddd) দিয়ে পরিষ্কার লুক দেওয়া হয়েছে।  
-- **সেন্টার অ্যালাইনমেন্ট**: সবকিছু মাঝে থাকায় দেখতে সুন্দর এবং প্রফেশনাল।  
-- **প্যাডিং**: টেক্সটের চারপাশে স্পেস রাখা হয়েছে যাতে ভিড় না লাগে।  
-- **ব্রেক লাইন**: `<br>` দিয়ে লিস্ট আইটেমগুলো স্পষ্টভাবে আলাদা করা হয়েছে।  
-- **Fun Fact আলাদা**: টেবিলের বাইরে রেখে এটাকে একটা স্পেশাল টাচ দেওয়া হয়েছে।  
-
-এটা কি আপনার পছন্দ হয়েছে? যদি আরও কিছু পরিবর্তন চান—যেমন কালার, ফন্ট, বা স্টাইল—বলুন, আমি ঠিক করে দিব!
 
 ![](https://komarev.com/ghpvc/?username=muhammadasif-cse)
 
