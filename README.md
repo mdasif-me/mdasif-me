@@ -51,9 +51,13 @@ I see every bug as a mystery to solve—the joy of debugging fuels my passion fo
 </table>
 
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadasif-cse&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4)
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadasif-cse&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 100%;"/>
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" style="width: 100%;"/>
+</div>
+
