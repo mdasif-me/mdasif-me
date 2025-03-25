@@ -1,54 +1,28 @@
-Here's the updated version of your intro in a **table/grid view** format without icons. It’s still clean, structured, and visually appealing, focusing purely on text and layout for a professional yet engaging look.
+### Hey, I'm Asif  
+A Software Engineer passionate about Full-Stack Development and building scalable, high-performance web applications.  
+Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.intertechbd.com/).  
 
----
+### What I’m Working On  
+- Building enterprise-grade backend architectures for seamless automation.  
+- Contributing to the [Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system) for enhanced business workflows.  
 
-| **Hey, I’m Asif**            | **A Software Engineer passionate about Full-Stack Development** |
-|-------------------------------|-----------------------------------------------------------------|
-| *Currently Building*          | Crafting scalable solutions at **[Interlink Techsoft Ltd.](https://www.intertechbd.com/)** |
-
----
-
-### Projects & Work  
-| **What I’m Working On**       | **Details**                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| Enterprise Backend Systems   | Building robust architectures for seamless automation                     |
-| Office Management System     | Contributing to **[this GitHub repo](https://github.com/InterlinkTechnologiesLtd/office-management-system)** for better workflows |
-
----
-
-### Learning & Growth  
-| **Focus Area**                          | **Where I’m Diving In**                                   |
-|-----------------------------------------|----------------------------------------------------------|
-| Advanced System Design & Optimization  | Mastering scalable, high-performance systems            |
-| CSE Fundamentals                       | Sharpening my roots with **[Phitron](https://phitron.io/)** |
-
----
+### Growing Every Day  
+- Diving deep into Advanced System Design & Backend Optimization.  
+- Sharpening my CSE fundamentals with [Phitron](https://phitron.io/).  
 
 ### Tech Stack & Expertise  
-| **Category**             | **Tools & Skills**                                      |
-|--------------------------|--------------------------------------------------------|
-| **Languages**            | Java, Python, TypeScript                              |
-| **Frameworks**           | Next.js, Spring Boot, Nest.js                         |
-| **Cloud & DevOps**       | AWS, Docker, Kubernetes, CI/CD Pipelines             |
-| **Databases & Tools**    | PostgreSQL, MySQL, MongoDB, Redis, Prisma            |
-| **Specialty**            | Optimizing Performance & Scaling Systems             |
-
----
+- **Languages & Frameworks** → Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
+- **Cloud & DevOps** → AWS, Docker, Kubernetes, CI/CD Pipelines  
+- **Databases & Tools** → PostgreSQL, MySQL, MongoDB, Redis, Prisma  
+- **Optimizing Performance & Scaling Systems**  
 
 ### Let’s Talk About  
-| **Topic**                 | **What Excites Me**                                      |
-|---------------------------|---------------------------------------------------------|
-| Scalable Web Solutions   | Efficient architecture, caching, microservices         |
-| Backend Engineering      | APIs, database design, best practices                  |
-| Tech Leadership          | Software architecture, code reviews, project planning  |
-
----
+- Scalable Web Solutions – Efficient architecture, caching, and microservices.  
+- Backend Engineering – APIs, database design, and best practices.  
+- Tech Leadership – Software architecture, code reviews, and project planning.  
 
 ### Fun Fact  
-| **Me in a Nutshell**      | I see every bug as a mystery—debugging is my thrill!   |
-|---------------------------|-------------------------------------------------------|
-
-
+I see every bug as a mystery to solve—the joy of debugging fuels my passion for coding!  
 
 
 
