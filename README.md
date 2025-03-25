@@ -29,8 +29,8 @@ Currently at: [Interlink Techsoft Ltd.](https://www.intertechbd.com/)
 - **Backend Engineering**: APIs, database design, best practices  
 - **Tech Leadership**: Software planning, code reviews, execution  
 
-- **Fun Fact**: I love solving bugs—each one’s a new challenge that fuels my passion!  
 
+I love solving bugs—each one’s a new challenge that fuels my passion!  
 
 ![](https://komarev.com/ghpvc/?username=muhammadasif-cse)
 
