@@ -1,82 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Stats</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        table {
-            width: 100%;
-            margin: 10px 0;
-            border-collapse: collapse;
-        }
-        th, td {
-            padding: 10px;
-            text-align: center;
-            border: 1px solid #ddd;
-        }
-        th {
-            background-color: #f2f2f2;
-            font-weight: bold;
-        }
-        .stats-table td {
-            text-align: center;
-        }
-        .github-stats {
-            text-align: center;
-            margin-top: 30px;
-        }
-    </style>
-</head>
-<body>
+Here's the updated version of your intro in a **table/grid view** format without icons. It’s still clean, structured, and visually appealing, focusing purely on text and layout for a professional yet engaging look.
 
-<h2>GitHub Stats</h2>
+---
 
-<table class="stats-table">
-    <tr>
-        <th colspan="2">GitHub Profile</th>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img src="https://komarev.com/ghpvc/?username=muhammadasif-cse" alt="Profile Views" />
-        </td>
-    </tr>
-    <tr>
-        <th>GitHub Stats</th>
-        <th>Top Languages</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=muhammadasif-cse&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif-cse&theme=calm_pink&hide_border=true&layout=compact" alt="Top Languages" />
-        </td>
-    </tr>
-    <tr>
-        <th colspan="2">GitHub Streak</th>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadasif-cse&theme=calm_pink&hide_border=true" alt="GitHub Streak" />
-        </td>
-    </tr>
-    <tr>
-        <th colspan="2">GitHub Contributor Stats</th>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-cse&limit=5&theme=calm_pink&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-        </td>
-    </tr>
-</table>
+| **Hey, I’m Asif**            | **A Software Engineer passionate about Full-Stack Development** |
+|-------------------------------|-----------------------------------------------------------------|
+| *Currently Building*          | Crafting scalable solutions at **[Interlink Techsoft Ltd.](https://www.intertechbd.com/)** |
 
-</body>
-</html>
+---
+
+### Projects & Work  
+| **What I’m Working On**       | **Details**                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| Enterprise Backend Systems   | Building robust architectures for seamless automation                     |
+| Office Management System     | Contributing to **[this GitHub repo](https://github.com/InterlinkTechnologiesLtd/office-management-system)** for better workflows |
+
+---
+
+### Learning & Growth  
+| **Focus Area**                          | **Where I’m Diving In**                                   |
+|-----------------------------------------|----------------------------------------------------------|
+| Advanced System Design & Optimization  | Mastering scalable, high-performance systems            |
+| CSE Fundamentals                       | Sharpening my roots with **[Phitron](https://phitron.io/)** |
+
+---
+
+### Tech Stack & Expertise  
+| **Category**             | **Tools & Skills**                                      |
+|--------------------------|--------------------------------------------------------|
+| **Languages**            | Java, Python, TypeScript                              |
+| **Frameworks**           | Next.js, Spring Boot, Nest.js                         |
+| **Cloud & DevOps**       | AWS, Docker, Kubernetes, CI/CD Pipelines             |
+| **Databases & Tools**    | PostgreSQL, MySQL, MongoDB, Redis, Prisma            |
+| **Specialty**            | Optimizing Performance & Scaling Systems             |
+
+---
+
+### Let’s Talk About  
+| **Topic**                 | **What Excites Me**                                      |
+|---------------------------|---------------------------------------------------------|
+| Scalable Web Solutions   | Efficient architecture, caching, microservices         |
+| Backend Engineering      | APIs, database design, best practices                  |
+| Tech Leadership          | Software architecture, code reviews, project planning  |
+
+---
+
+### Fun Fact  
+| **Me in a Nutshell**      | I see every bug as a mystery—debugging is my thrill!   |
+|---------------------------|-------------------------------------------------------|
+
 
 
 
