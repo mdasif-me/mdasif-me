@@ -1,39 +1,27 @@
-## 🚀 About Me  
-
-### 👋 Hey, I'm Asif!  
+## 👋 Hey, I'm Asif!  
 🔹 A **Software Engineer** specializing in **Full-Stack Development** with a passion for crafting scalable and high-performance web applications.  
 🔹 Currently working at **[Interlink Techsoft Ltd.](https://www.intertechbd.com/)**, where I design and develop cutting-edge software solutions.  
 
----
-
-### 💼 What I’m Working On  
+## 💼 What I’m Working On  
 🔹 **[Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system)** – Enhancing automation and business workflow efficiency.  
 🔹 Building **scalable backend architectures** and improving system performance.  
 
----
-
-### 📚 Currently Learning  
+## 📚 Currently Learning  
 🎯 Mastering **Advanced System Design** and **Backend Optimization**.  
 🚀 Strengthening my **CSE fundamentals** with **[Phitron](https://phitron.io/)**.  
 
----
-
-### 💡 My Expertise  
+## 💡 My Expertise  
 💻 **Languages & Frameworks:** Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
 ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines  
 🛠 **Databases & Tools:** PostgreSQL, MongoDB, Redis, Prisma, Elasticsearch  
 ⚙️ **System Design & Performance Optimization**  
 
----
-
-### 📢 Ask Me About  
+## 📢 Ask Me About  
 🚀 **Scalable Web Solutions** – High-performance architectures, caching strategies, and microservices.  
 🛠 **Backend Engineering** – Building robust APIs, database design, and security best practices.  
 💡 **Tech Leadership** – Code reviews, software architecture, and project planning.  
 
----
-
-### ⚡ Fun Fact  
+## ⚡ Fun Fact  
 💡 I believe **every bug is a puzzle**, and I love the thrill of debugging complex issues! 🚀  
 
 
