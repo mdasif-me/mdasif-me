@@ -1,4 +1,41 @@
-🔭 I’m currently working at **Interlink Techsoft Ltd.** ([Website](https://www.intertechbd.com/))  <br><br>👯 I’m contributing to the **Office Management System** ([GitHub Repo](https://github.com/InterlinkTechnologiesLtd/office-management-system))  <br><br>🌱 I’m currently learning **CSE Fundamentals with Phitron** ([Phitron](https://phitron.io/))  <br><br>💬 Ask me about **Full-Stack Development, Java, Python, TypeScript, Next.js, and Scalable Web Solutions**  <br><br>⚡ Fun fact: **I love exploring new technologies and solving complex challenges!**  
+## 🚀 About Me  
+
+### 👋 Hey, I'm Asif!  
+🔹 A **Software Engineer** specializing in **Full-Stack Development** with a passion for crafting scalable and high-performance web applications.  
+🔹 Currently working at **[Interlink Techsoft Ltd.](https://www.intertechbd.com/)**, where I design and develop cutting-edge software solutions.  
+
+---
+
+### 💼 What I’m Working On  
+🔹 **[Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system)** – Enhancing automation and business workflow efficiency.  
+🔹 Building **scalable backend architectures** and improving system performance.  
+
+---
+
+### 📚 Currently Learning  
+🎯 Mastering **Advanced System Design** and **Backend Optimization**.  
+🚀 Strengthening my **CSE fundamentals** with **[Phitron](https://phitron.io/)**.  
+
+---
+
+### 💡 My Expertise  
+💻 **Languages & Frameworks:** Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
+☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines  
+🛠 **Databases & Tools:** PostgreSQL, MongoDB, Redis, Prisma, Elasticsearch  
+⚙️ **System Design & Performance Optimization**  
+
+---
+
+### 📢 Ask Me About  
+🚀 **Scalable Web Solutions** – High-performance architectures, caching strategies, and microservices.  
+🛠 **Backend Engineering** – Building robust APIs, database design, and security best practices.  
+💡 **Tech Leadership** – Code reviews, software architecture, and project planning.  
+
+---
+
+### ⚡ Fun Fact  
+💡 I believe **every bug is a puzzle**, and I love the thrill of debugging complex issues! 🚀  
+
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadasif.cse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadasif_cse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadasif-cse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammadasifcse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@muhammadasif_cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadasif.cse@gmail.com) 
