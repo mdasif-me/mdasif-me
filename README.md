@@ -1,28 +1,44 @@
-### Hey, I'm Asif  
-A Software Engineer passionate about Full-Stack Development and building scalable, high-performance web applications.  
-Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.intertechbd.com/).  
+| **Hey, I'm Asif**  |  
+|---------------------|
+| A **Software Engineer** passionate about Full-Stack Development and building scalable, high-performance web applications. Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.intertechbd.com/). |
 
-### What I’m Working On  
-- Building enterprise-grade backend architectures for seamless automation.  
-- Contributing to the [Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system) for enhanced business workflows.  
+---
 
-### Growing Every Day  
-- Diving deep into Advanced System Design & Backend Optimization.  
-- Sharpening my CSE fundamentals with [Phitron](https://phitron.io/).  
+| **What I’m Working On** |  
+|-------------------------|
+| - Building enterprise-grade backend architectures for seamless automation. |
+| - Contributing to the [Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system) for enhanced business workflows. |
 
-### Tech Stack & Expertise  
-- **Languages & Frameworks** → Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
-- **Cloud & DevOps** → AWS, Docker, Kubernetes, CI/CD Pipelines  
-- **Databases & Tools** → PostgreSQL, MySQL, MongoDB, Redis, Prisma  
-- **Optimizing Performance & Scaling Systems**  
+---
 
-### Let’s Talk About  
-- Scalable Web Solutions – Efficient architecture, caching, and microservices.  
-- Backend Engineering – APIs, database design, and best practices.  
-- Tech Leadership – Software architecture, code reviews, and project planning.  
+| **Growing Every Day** |  
+|-----------------------|
+| - Diving deep into **Advanced System Design** & **Backend Optimization**. |
+| - Sharpening my CSE fundamentals with [Phitron](https://phitron.io/). |
 
-### Fun Fact  
-I see every bug as a mystery to solve—the joy of debugging fuels my passion for coding!  
+---
+
+| **Tech Stack & Expertise** |  
+|-----------------------------|
+| **Languages & Frameworks** → Java, Python, TypeScript, Next.js, Spring Boot, Nest.js |
+| **Cloud & DevOps** → AWS, Docker, Kubernetes, CI/CD Pipelines |
+| **Databases & Tools** → PostgreSQL, MySQL, MongoDB, Redis, Prisma |
+| **Optimizing Performance & Scaling Systems** |
+
+---
+
+| **Let’s Talk About** |  
+|----------------------|
+| - **Scalable Web Solutions** – Efficient architecture, caching, and microservices. |
+| - **Backend Engineering** – APIs, database design, and best practices. |
+| - **Tech Leadership** – Software architecture, code reviews, and project planning. |
+
+---
+
+| **Fun Fact** |  
+|--------------|
+| I see every bug as a mystery to solve—the joy of debugging fuels my passion for coding! |
+
 
 ![](https://komarev.com/ghpvc/?username=muhammadasif-cse)
 
