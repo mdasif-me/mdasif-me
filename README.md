@@ -13,7 +13,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=muhammadasif-cse&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-cse&limit=5&theme=calm_pink&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="100%"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-cse&limit=5&theme=calm_pink&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="100%"/>
     </td>
   </tr>
   <tr>
