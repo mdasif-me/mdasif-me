@@ -1,29 +1,38 @@
-### Hey, I'm Asif  
-A Software Engineer passionate about Full-Stack Development and building scalable, high-performance web applications.  
-Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.intertechbd.com/).  
+## Asif - Software Engineer  
+**Full-Stack Developer | Scalable Solutions Expert**  
+Currently at: [Interlink Techsoft Ltd.](https://www.intertechbd.com/)  
 
-### What I’m Working On  
-- Building enterprise-grade backend architectures for seamless automation.  
-- Contributing to the [Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system) for enhanced business workflows.  
+---
 
-### Growing Every Day  
-- Diving deep into Advanced System Design & Backend Optimization.  
-- Sharpening my CSE fundamentals with [Phitron](https://phitron.io/).  
+### Current Projects  
+- **Enterprise Backend Architecture**: Building robust systems for seamless automation.  
+- **Office Management System**: Enhancing business workflows ([GitHub Link](https://github.com/InterlinkTechnologiesLtd/office-management-system)).  
 
-### Tech Stack & Expertise  
-- **Languages & Frameworks** → Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
-- **Cloud & DevOps** → AWS, Docker, Kubernetes, CI/CD Pipelines  
-- **Databases & Tools** → PostgreSQL, MySQL, MongoDB, Redis, Prisma  
-- **Optimizing Performance & Scaling Systems**  
+---
 
-### Let’s Talk About  
-- Scalable Web Solutions – Efficient architecture, caching, and microservices.  
-- Backend Engineering – APIs, database design, and best practices.  
-- Tech Leadership – Software architecture, code reviews, and project planning.  
+### Skill Development  
+- **Advanced System Design**: Focusing on optimization and scalability.  
+- **CSE Fundamentals**: Strengthening my core with [Phitron](https://phitron.io/).  
 
-### Fun Fact  
-I see every bug as a mystery to solve—the joy of debugging fuels my passion for coding!  
+---
 
+### Technical Expertise  
+- **Languages & Frameworks**: Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD Pipelines  
+- **Databases & Tools**: PostgreSQL, MySQL, MongoDB, Redis, Prisma  
+- **Specialization**: Performance optimization and system scaling  
+
+---
+
+### Discussion Topics  
+- **Scalable Web Solutions**: Architecture, caching, microservices  
+- **Backend Engineering**: APIs, database design, best practices  
+- **Tech Leadership**: Software planning, code reviews, execution  
+
+---
+
+### About Me  
+- **Fun Fact**: I love solving bugs—each one’s a new challenge that fuels my passion!  
 
 
 ![](https://komarev.com/ghpvc/?username=muhammadasif-cse)
