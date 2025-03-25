@@ -1,7 +1,3 @@
-Here’s your refined bio without icons, keeping it clean and professional:  
-
----
-
 ### Hey, I'm Asif  
 A Software Engineer passionate about Full-Stack Development and building scalable, high-performance web applications.  
 Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.intertechbd.com/).  
