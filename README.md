@@ -1,4 +1,3 @@
-# 💫 About Me:
 🔭 I’m currently working at **Interlink Techsoft Ltd.** ([Website](https://www.intertechbd.com/))  <br><br>👯 I’m contributing to the **Office Management System** ([GitHub Repo](https://github.com/InterlinkTechnologiesLtd/office-management-system))  <br><br>🌱 I’m currently learning **CSE Fundamentals with Phitron** ([Phitron](https://phitron.io/))  <br><br>💬 Ask me about **Full-Stack Development, Java, Python, TypeScript, Next.js, and Scalable Web Solutions**  <br><br>⚡ Fun fact: **I love exploring new technologies and solving complex challenges!**  
 
 
