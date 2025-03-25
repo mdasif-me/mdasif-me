@@ -1,43 +1,56 @@
-| **Hey, I'm Asif**  |  
-|---------------------|
-| A **Software Engineer** passionate about Full-Stack Development and building scalable, high-performance web applications. Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.intertechbd.com/). |
+## **👋 Hey, I'm Asif**  
+
+A **Software Engineer** with a passion for **Full-Stack Development**, focused on crafting scalable and high-performance web applications.  
+Currently developing software solutions at [**Interlink Techsoft Ltd.**](https://www.intertechbd.com/).
 
 ---
 
-| **What I’m Working On** |  
-|-------------------------|
-| - Building enterprise-grade backend architectures for seamless automation. |
-| - Contributing to the [Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system) for enhanced business workflows. |
+### **🚀 What I’m Working On**  
+| 🔧 **Backend Engineering** | 🔗 **Office Management System** |
+|----------------------------|--------------------------------|
+| - Designing enterprise-grade **backend architectures**. | - Contributing to the [**Office Management System**](https://github.com/InterlinkTechnologiesLtd/office-management-system) to streamline workflows. |
+| - Ensuring **system scalability** and **optimization**. | - Enhancing **automation** and **business efficiency**. |
 
 ---
 
-| **Growing Every Day** |  
-|-----------------------|
-| - Diving deep into **Advanced System Design** & **Backend Optimization**. |
-| - Sharpening my CSE fundamentals with [Phitron](https://phitron.io/). |
+### **📚 Growing Every Day**  
+| 🌱 **Learning & Improving** | 💡 **CSE Fundamentals** |
+|-----------------------------|------------------------|
+| - Mastering **Advanced System Design** & **Backend Optimization**. | - Strengthening my skills in **CSE fundamentals** with [**Phitron**](https://phitron.io/). |
+| - Improving **cloud architecture** and **scalability**. | - Diving deep into **algorithmic problem-solving** and **data structures**. |
 
 ---
 
-| **Tech Stack & Expertise** |  
-|-----------------------------|
-| **Languages & Frameworks** → Java, Python, TypeScript, Next.js, Spring Boot, Nest.js |
-| **Cloud & DevOps** → AWS, Docker, Kubernetes, CI/CD Pipelines |
-| **Databases & Tools** → PostgreSQL, MySQL, MongoDB, Redis, Prisma |
-| **Optimizing Performance & Scaling Systems** |
+### **🛠 Tech Stack & Expertise**  
+| 💻 **Languages & Frameworks** | ☁️ **Cloud & DevOps** | 🗄 **Databases & Tools** |
+|------------------------------|-----------------------|-------------------------|
+| - **Java**, **Python**, **TypeScript** | - **AWS**, **Docker**, **Kubernetes** | - **PostgreSQL**, **MySQL**, **MongoDB** |
+| - **Next.js**, **Spring Boot**, **Nest.js** | - **CI/CD Pipelines** | - **Redis**, **Prisma**, **Elasticsearch** |
+| - **GraphQL**, **REST APIs** | - **Serverless Architectures** | - **Redis** |
 
 ---
 
-| **Let’s Talk About** |  
-|----------------------|
-| - **Scalable Web Solutions** – Efficient architecture, caching, and microservices. |
-| - **Backend Engineering** – APIs, database design, and best practices. |
-| - **Tech Leadership** – Software architecture, code reviews, and project planning. |
+### **🔍 Let’s Talk About**  
+| 🔧 **Backend Engineering** | 🌐 **Scalable Web Solutions** |
+|----------------------------|-----------------------------|
+| - Building robust **APIs** and **database design**. | - **Microservices architecture** for distributed systems. |
+| - Ensuring **data integrity** and **security best practices**. | - Caching strategies for **performance optimization**. |
 
 ---
 
-| **Fun Fact** |  
-|--------------|
-| I see every bug as a mystery to solve—the joy of debugging fuels my passion for coding! |
+### **⚡ Fun Fact**  
+"I see **every bug as a mystery** to solve, and the thrill of debugging fuels my passion for coding!"
+
+---
+
+## **📊 GitHub Stats**  
+![](https://github-readme-stats.vercel.app/api?username=muhammadasif-cse&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true)
+
+---
+
+## **💬 Let's Connect!**  
+Feel free to ask about anything related to **Full-Stack Development**, **Backend Engineering**, **System Design**, or **Scalable Web Solutions**.
+
 
 
 ![](https://komarev.com/ghpvc/?username=muhammadasif-cse)
