@@ -2,24 +2,42 @@
 **Full-Stack Developer | Scalable Solutions Expert**  
 Currently at: [Interlink Techsoft Ltd.](https://www.intertechbd.com/)  
 
-### Current Projects  
+<table>
+  <tr>
+     <td align="center">
+     ### Current Projects  
 - **Enterprise Backend Architecture**: Building robust systems for seamless automation.  
 - **Office Management System**: Enhancing business workflows ([GitHub Link](https://github.com/InterlinkTechnologiesLtd/office-management-system)).  
-
+    </td>
+    <td align="center">
 ### Skill Development  
 - **Advanced System Design**: Focusing on optimization and scalability.  
 - **CSE Fundamentals**: Strengthening my core with [Phitron](https://phitron.io/).  
-
-### Technical Expertise  
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+    ### Technical Expertise  
 - **Languages & Frameworks**: Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
 - **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD Pipelines  
 - **Databases & Tools**: PostgreSQL, MySQL, MongoDB, Redis, Prisma  
 - **Specialization**: Performance optimization and system scaling  
-
-### Discussion Topics  
+    </td>
+    <td align="center">
+     ### Discussion Topics  
 - **Scalable Web Solutions**: Architecture, caching, microservices  
 - **Backend Engineering**: APIs, database design, best practices  
 - **Tech Leadership**: Software planning, code reviews, execution  
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 I love solving bugs—each one’s a new challenge that fuels my passion!  
