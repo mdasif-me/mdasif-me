@@ -27,7 +27,7 @@ I see every bug as a mystery to solve—the joy of debugging fuels my passion fo
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadasif.cse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadasif_cse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadasif-cse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammadasifcse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@muhammadasif_cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadasif.cse@gmail.com) 
 
-[![Profile views](https://u8views.com/api/v1/github/muhammadasif-cse)](https://u8views.com)](https://komarev.com/ghpvc/?username=muhammadasif-cse)
+(https://komarev.com/ghpvc/?username=muhammadasif-cse)
 
 
 
