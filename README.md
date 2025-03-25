@@ -13,7 +13,7 @@ Currently crafting software solutions at [Interlink Techsoft Ltd.](https://www.i
 ### Tech Stack & Expertise  
 - **Languages & Frameworks** → Java, Python, TypeScript, Next.js, Spring Boot, Nest.js  
 - **Cloud & DevOps** → AWS, Docker, Kubernetes, CI/CD Pipelines  
-- **Databases & Tools** → PostgreSQL, MySQL, MongoDB, Redis, Prisma, Elasticsearch  
+- **Databases & Tools** → PostgreSQL, MySQL, MongoDB, Redis, Prisma  
 - **Optimizing Performance & Scaling Systems**  
 
 ### Let’s Talk About  
