@@ -29,9 +29,6 @@ Currently at: [Interlink Techsoft Ltd.](https://www.intertechbd.com/)
 - **Backend Engineering**: APIs, database design, best practices  
 - **Tech Leadership**: Software planning, code reviews, execution  
 
----
-
-### About Me  
 - **Fun Fact**: I love solving bugs—each one’s a new challenge that fuels my passion!  
 
 
