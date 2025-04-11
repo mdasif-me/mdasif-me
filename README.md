@@ -1,22 +1,25 @@
 ### Muhammad Asif — Software Engineer
 
-**Full-Stack Developer | Scalable Solutions Enthusiast**
+**Software Engineer | Frontend Developer | Full-Stack Developer | Scalable Systems Enthusiast**
 
-Currently at [Interlink Techsoft Ltd.](https://www.intertechbd.com/)
+Currently at [Interlink Techsoft Ltd.](https://www.intertechbd.com/) — **Assistant Software Engineer (Frontend)**
 
-I specialize in building scalable, high-performance web applications. With expertise across the full stack (React, Next.js, Node.js, PostgreSQL, AWS, Docker), I enjoy solving complex problems, optimizing systems, and driving impactful business outcomes. Passionate about innovation, system design, and tech leadership.
+I specialize in building scalable, high-performance web applications and system architectures. With expertise across the full stack (React, Next.js, Node.js, Express.js, Nest.js, MySQL, AWS, Docker), I focus on delivering optimized, reliable, and business-impactful solutions. I am deeply passionate about innovation, system design, problem-solving, and driving technical excellence.
 
 **Current Focus:**
-- Architecting scalable backend systems
-- Developing an advanced [Office Management System](https://github.com/InterlinkTechnologiesLtd/office-management-system)
-- Mastering system design and CSE fundamentals with [Phitron](https://phitron.io/)
+- Architecting scalable and maintainable backend systems
+- Strengthening problem-solving skills with DSA and algorithms (Phitron)
+- Mastering Python for Machine Learning and Data Science
+- Exploring NLP and Generative AI technologies
 
 **Technical Stack:**
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB, PostgreSQL, Redis
-- **Cloud/DevOps:** AWS, Docker, Kubernetes, CI/CD
+- **Languages:** JavaScript, TypeScript, Python, Java, C, SQL
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, Nest.js, MongoDB, MySQL
+- **Cloud/DevOps:** AWS, Docker, Nginx, CI/CD, GitHub Actions
 
-**Let's connect:** I'm always excited to discuss system design, backend engineering, and scalable web solutions.
+**Let’s Connect:**  
+I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
 
 ![](https://komarev.com/ghpvc/?username=muhammadasif-cse)
 
