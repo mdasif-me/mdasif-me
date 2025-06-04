@@ -13,7 +13,7 @@ I specialize in building scalable, high-performance web applications and system 
 - Exploring NLP and Generative AI technologies
 
 **Technical Stack:**
-- **Languages:** JavaScript, TypeScript, Python, Java, C, SQL
+- **Languages:** JavaScript, TypeScript, C, C++, Python, SQL
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, Nest.js, MongoDB, MySQL
 - **Cloud/DevOps:** AWS, Docker, Nginx, CI/CD, GitHub Actions
