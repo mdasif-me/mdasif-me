@@ -21,10 +21,10 @@ I specialize in building scalable, high-performance web applications and system 
 **Let’s Connect:**  
 I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
 
-![](https://komarev.com/ghpvc/?username=muhammadasif-cse)
+![](https://komarev.com/ghpvc/?username=mdasif-join)
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadasif.cse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadasif_cse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadasif-cse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammadasifcse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@muhammadasif_cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadasif.cse@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadasif.cse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadasif_cse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdasif-join) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammadasifcse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@muhammadasif_cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadasif.cse@gmail.com) 
 
 
 
@@ -36,18 +36,18 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 <table>
   <tr>
      <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif-cse&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif-join&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-cse&limit=5&theme=calm_pink&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="100%"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=mdasif-join&limit=5&theme=calm_pink&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadasif-cse&theme=calm_pink&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=mdasif-join&theme=calm_pink&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=muhammadasif-cse&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdasif-join&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
 </table>
@@ -55,6 +55,6 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 
 ## GitHub Trophies
 <div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadasif-cse&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 100%;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdasif-join&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 100%;"/>
 </div>
 
