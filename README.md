@@ -55,6 +55,6 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 
 ## GitHub Trophies
 <div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdasif-join&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 100%;"/>
+  <img src="https://github-trophies.vercel.app/?username=mdasif-join&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="width: 100%;"/>
 </div>
 
