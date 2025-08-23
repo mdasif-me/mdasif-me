@@ -1,8 +1,22 @@
-<center><span style="font-size:22px;">MD. ASIF</span></center>
+<div align="center" style="font-family: 'Merriweather', serif;">
 
-**Software Engineer | Frontend Developer | Full-Stack Developer | Scalable Systems Enthusiast**
+  <h1 style="font-size:22px; font-weight:bold; margin:0;">
+    MD. ASIF
+  </h1>
 
-Currently at [Interlink Techsoft Ltd.](https://www.intertechbd.com/) — **Assistant Software Engineer (Frontend)**
+  <h3 style="font-size:12px; font-weight:500; margin:4px 0;">
+    Frontend Software Engineer
+  </h3>
+
+  <p style="font-size:10px; font-weight:300; margin:6px 0;">
+    Dhaka-1214 | 01930248584 | 
+    <a href="mailto:mdasif.join@gmail.com">mdasif.join@gmail.com</a> |  
+    <a href="https://linkedin.com/in/mdasif-join">linkedin.com/in/mdasif-join</a> |  
+    <a href="https://github.com/mdasif-join">github.com/mdasif-join</a>
+  </p>
+
+</div>
+
 
 Frontend Software Engineer with solid experience delivering responsive applications using React.js and Next.js.
 Skilled in Agile methodologies and REST API integration, with a track record of enhancing UI reliability and
