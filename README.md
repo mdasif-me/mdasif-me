@@ -1,40 +1,58 @@
-<div align="center" style="font-family: 'Merriweather', serif;">
+<div align="center">
+  
+### MD. ASIF - Frontend Software Engineer  
 
-  <h1 style="font-size:22px; font-weight:bold; margin:0;">
-    MD. ASIF
-  </h1>
-
-  <h3 style="font-size:12px; font-weight:500; margin:4px 0;">
-    Frontend Software Engineer
-  </h3>
-
-  <p style="font-size:10px; font-weight:300; margin:6px 0;">
-    Dhaka-1214 | 01930248584 | 
-    <a href="mailto:mdasif.join@gmail.com">mdasif.join@gmail.com</a> |  
-    <a href="https://linkedin.com/in/mdasif-join">linkedin.com/in/mdasif-join</a> |  
-    <a href="https://github.com/mdasif-join">github.com/mdasif-join</a>
-  </p>
+Dhaka-1214 • 01930248584 • [mdasif.join@gmail.com](mailto:mdasif.join@gmail.com) •  [linkedin.com/in/mdasif-join](https://linkedin.com/in/mdasif-join) • [github.com/mdasif-join](https://github.com/mdasif-join)
 
 </div>
 
+---
 
-Frontend Software Engineer with solid experience delivering responsive applications using React.js and Next.js.
-Skilled in Agile methodologies and REST API integration, with a track record of enhancing UI reliability and
-performance through effective debugging and optimization. Committed to continuous learning and collaborative
-development.
+## SUMMARY  
+Frontend Software Engineer with solid experience delivering responsive applications using **React.js** and **Next.js**. Skilled in Agile methodologies and REST API integration, with a track record of enhancing UI reliability and performance through effective debugging and optimization. Committed to continuous learning and collaborative development.  
 
-**Current Focus:**
-- Architecting scalable and maintainable backend systems
-- Strengthening problem-solving skills with DSA and algorithms (Phitron)
-- Mastering Python for Machine Learning and Data Science
-- Exploring NLP and Generative AI technologies
+## SKILLS  
 
-**Technical Stack:**
-- **Programming Languages**: JavaScript, TypeScript, C, C++, Python.
-- **Frontend**: React.js, React Native, Electron.js, Next.js, Vue.js, Redux, Socket.IO, SignalR, GraphQL, Firebase, etc.
-- **Styling**: Figma, CSS3, SASS, Tailwind CSS, Bootstrap, NextUI, ShadCN, etc.
-- **Tools & Technologies**: GitHub, VS Code, Postman, npm, Chrome DevTools, Netlify, Vercel, etc.
-- **Other Skills**: Problem-solving, Docker, SQL, NoSQL, JWT, REST APIs, DSA, OOP, AWS, Jest, Cypress, etc.
+- **Programming Languages:** JavaScript, TypeScript, C, C++, Python  
+- **Frontend:** React.js, React Native, Electron.js, Next.js, Vue.js, Redux, Socket.IO, SignalR, GraphQL, Firebase  
+- **Styling:** Figma, CSS3, SASS, Tailwind CSS, Bootstrap, NextUI, ShadCN  
+- **Tools & Technologies:** GitHub, VS Code, Postman, npm, Chrome DevTools, Netlify, Vercel  
+- **Other Skills:** Problem-solving, Docker, SQL, NoSQL, JWT, REST APIs, DSA, OOP, AWS, Jest, Cypress  
+
+## EXPERIENCES  
+
+### **Software Engineer** | Interlink TechSoft Ltd. | Dhaka 1205, Bangladesh  
+*May 2023 – Present*  
+- Developed and launched three cross-platform apps, boosting engagement by 40%  
+- Conducted code reviews and debugging, improving code quality and reducing bugs by 30%  
+- Enhanced front-end performance and cross-platform compatibility for a smooth user experience  
+
+### **Full-Stack Developer** | Thinky Storm | Dhaka 1216, Bangladesh  
+*Nov 2022 – Apr 2023*  
+- Achieved a 40% increase in performance and scalability through full-stack development optimization  
+- Enhanced data processing efficiency by 45% by optimizing RESTful APIs and MongoDB queries  
+- Led an 11-member team as Project Manager, ensuring on-time delivery and effective client coordination  
+
+## PROJECT  
+
+### **Real-time Chatting App** | Interlink TechSoft Ltd.  
+*Jan 2025 – Aug 2025*  
+A real-time chat application built for cross-platform use to improve user interaction.  
+- Developed a complete UI, authentication, CRUD operations, and real-time chat features using SignalR  
+- Created desktop (Electron.js) and web (Next.js) versions for cross-platform compatibility  
+
+## EDUCATION  
+
+**Computer Science and Engineering (CSE)** | Presidency University  
+*May 2024 – Present*  
+- Active participant in technical clubs and coding contests  
+
+## ADDITIONAL INFORMATION  
+
+- **Languages:** English (Proficient), Bangla (Native)  
+- **Certificates:** Level 1 & 2 Web Development Courses covering essential web technologies and frameworks  
+
+---
 
 **Let’s Connect:**  
 I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
