@@ -1,10 +1,13 @@
-### Muhammad Asif — Software Engineer
+### MD. ASIF — Frontend Software Engineer
 
 **Software Engineer | Frontend Developer | Full-Stack Developer | Scalable Systems Enthusiast**
 
 Currently at [Interlink Techsoft Ltd.](https://www.intertechbd.com/) — **Assistant Software Engineer (Frontend)**
 
-I specialize in building scalable, high-performance web applications and system architectures. With expertise across the full stack (React, Next.js, Node.js, Express.js, Nest.js, MySQL, AWS, Docker), I focus on delivering optimized, reliable, and business-impactful solutions. I am deeply passionate about innovation, system design, problem-solving, and driving technical excellence.
+Frontend Software Engineer with solid experience delivering responsive applications using React.js and Next.js.
+Skilled in Agile methodologies and REST API integration, with a track record of enhancing UI reliability and
+performance through effective debugging and optimization. Committed to continuous learning and collaborative
+development.
 
 **Current Focus:**
 - Architecting scalable and maintainable backend systems
@@ -13,10 +16,11 @@ I specialize in building scalable, high-performance web applications and system 
 - Exploring NLP and Generative AI technologies
 
 **Technical Stack:**
-- **Languages:** JavaScript, TypeScript, C, C++, Python, SQL
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Nest.js, MongoDB, MySQL
-- **Cloud/DevOps:** AWS, Docker, Nginx, CI/CD, GitHub Actions
+- **Programming Languages**: JavaScript, TypeScript, C, C++, Python.
+- **Frontend**: React.js, React Native, Electron.js, Next.js, Vue.js, Redux, Socket.IO, SignalR, GraphQL, Firebase, etc.
+- **Styling**: Figma, CSS3, SASS, Tailwind CSS, Bootstrap, NextUI, ShadCN, etc.
+- **Tools & Technologies**: GitHub, VS Code, Postman, npm, Chrome DevTools, Netlify, Vercel, etc.
+- **Other Skills**: Problem-solving, Docker, SQL, NoSQL, JWT, REST APIs, DSA, OOP, AWS, Jest, Cypress, etc.
 
 **Let’s Connect:**  
 I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
