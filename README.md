@@ -78,7 +78,7 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 |:---:|
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdasif-me&theme=dark&hide_border=true&layout=compact&bg_color=0D1117" /> |
 
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=mdasif-me&theme=onestar&no-frame=true&bg_color=0D1117&margin-w=15&margin-h=15" width="100%" />
-</div>
+| GitHub Activity Graph |
+|:---:|
+| <img src="https://github-trophies.vercel.app/?username=mdasif-me&theme=onestar&no-frame=true&bg_color=0D1117&margin-w=80&margin-h=40" width="100%" /> |
 
