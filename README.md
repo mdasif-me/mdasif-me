@@ -88,6 +88,7 @@ I’m always eager to collaborate on system design challenges, backend engineeri
   </tr>
 </table>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdasif-me&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## GitHub Trophies
 <div style="width: 100%; display: flex; justify-content: center;">
