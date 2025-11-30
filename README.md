@@ -10,6 +10,15 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 ![](https://komarev.com/ghpvc/?username=mdasif-me)
 
 
+- Component-Based Architecture Design
+- Progressive Web Application Development
+- Website Performance Optimization
+- Implementation of Unit and Integration Tests
+- Responsive, Mobile-First Web Application Development
+- Experience in Designing and Implementing RESTful APIs
+- Strong Collaboration Skills with Backend Developers
+- Familiarity with Modern Frontend Development Tools like Webpack and Babel
+
 
 | GitHub Stats | Top Languages Used |
 |:---:|:---:|
