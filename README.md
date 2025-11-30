@@ -1,4 +1,8 @@
-Frontend Software Engineer with solid experience delivering responsive applications using **React.js** and **Next.js**. Skilled in Agile methodologies and REST API integration, with a track record of enhancing UI reliability and performance through effective debugging and optimization. Committed to continuous learning and collaborative development.  
+Seasoned Mid Level Frontend Developer with 4+ years of expertise in crafting responsive, highperformance web applications. Proficient in React, TypeScript, and modern CSS frameworks, with a
+strong focus on accessibility, UX optimization, scalable architecture, and effective problem solving.
+Spearheaded a project that improved load times by 40%, resulting in a 25% increase in user
+engagement. Skilled in mentoring junior developers and working with cross-functional teams to
+deliver innovative solutions. 
 
 **Let’s Connect:**  
 I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
