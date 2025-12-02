@@ -9,16 +9,16 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 
 ![](https://komarev.com/ghpvc/?username=mdasif-me)
 
- Languages & Frontend Frameworks: JavaScript (ES6+), TypeScript, HTML5, React.js, Next.js,
+ - Languages & Frontend Frameworks: JavaScript (ES6+), TypeScript, HTML5, React.js, Next.js,
  Vue.js, Svelte, Preact, Astro, Nuxt.js
- State Management & Data Handling: Redux Toolkit, Recoil, Zustand, React Query, SWR, Apollo
+ - State Management & Data Handling: Redux Toolkit, Recoil, Zustand, React Query, SWR, Apollo
  Client (GraphQL), Axios, WebSockets
- CSS & Styling Tools: CSS3, SCSS, Less, Tailwind CSS, Utility-First & Modern CSS Frameworks,
+ - CSS & Styling Tools: CSS3, SCSS, Less, Tailwind CSS, Utility-First & Modern CSS Frameworks,
  Styled Components, Responsive & Mobile-First Design
- Build, Testing & Performance Tools: Webpack, Babel, Vite, Parcel, ESBuild, Jest, React Testing
+ - Build, Testing & Performance Tools: Webpack, Babel, Vite, Parcel, ESBuild, Jest, React Testing
  Library, Playwright, Storybook, Code Splitting, Lazy Loading, Performance Optimization,
  Lighthouse, PWA, Accessibility (WCAG), SEO Optimization
- Collaboration & Workflow: Git/GitHub, CI/CD Basics, Agile/Scrum Methodologies, Cross
+ - Collaboration & Workflow: Git/GitHub, CI/CD Basics, Agile/Scrum Methodologies, Cross
 Functional Team Collaboration, Pair Programming, Documentation, Component Library & Design
  System Integration, Mentorship & Knowledge Sharing
 
