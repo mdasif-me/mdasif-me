@@ -4,24 +4,6 @@ Spearheaded a project that improved load times by 40%, resulting in a 25% increa
 engagement. Skilled in mentoring junior developers and working with cross-functional teams to
 deliver innovative solutions. 
 
-**Let’s Connect:**  
-I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
-
-![](https://komarev.com/ghpvc/?username=mdasif-me)
-
- - Languages & Frontend Frameworks: JavaScript (ES6+), TypeScript, HTML5, React.js, Next.js,
- Vue.js, Svelte, Preact, Astro, Nuxt.js
- - State Management & Data Handling: Redux Toolkit, Recoil, Zustand, React Query, SWR, Apollo
- Client (GraphQL), Axios, WebSockets
- - CSS & Styling Tools: CSS3, SCSS, Less, Tailwind CSS, Utility-First & Modern CSS Frameworks,
- Styled Components, Responsive & Mobile-First Design
- - Build, Testing & Performance Tools: Webpack, Babel, Vite, Parcel, ESBuild, Jest, React Testing
- Library, Playwright, Storybook, Code Splitting, Lazy Loading, Performance Optimization,
- Lighthouse, PWA, Accessibility (WCAG), SEO Optimization
- - Collaboration & Workflow: Git/GitHub, CI/CD Basics, Agile/Scrum Methodologies, Cross
-Functional Team Collaboration, Pair Programming, Documentation, Component Library & Design
- System Integration, Mentorship & Knowledge Sharing
-
 - Component-Based Architecture Design
 - Progressive Web Application Development
 - Website Performance Optimization
@@ -32,11 +14,23 @@ Functional Team Collaboration, Pair Programming, Documentation, Component Librar
 - Familiarity with Modern Frontend Development Tools like Webpack and Babel
 
 
-| GitHub Stats | Top Languages Used |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=mdasif-me&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif-me&theme=dark&hide_border=true&layout=compact&bg_color=0D1117" /> 
+[![Languages & Frontend Frameworks](https://skillicons.dev/icons?i=js,ts,html,react,next,vue,svelte,astro,nuxt,redux,apollo,graphql)](https://skillicons.dev) <br/>
+[![Languages & Frontend Frameworks](https://skillicons.dev/icons?i=css,scss,less,tailwind,babel,jest,git,github,aws,azure,docker,githubactions)](https://skillicons.dev) <br/>
+
+**Let’s Connect:**  
+I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
+
+![](https://komarev.com/ghpvc/?username=mdasif-me)
+
+
+| Top Languages | GitHub Stats | Productive Time |
+|:---:|:---:|:---:|
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdasif-me&theme=transparent" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdasif-me&theme=transparent" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdasif-me&theme=transparent" /> 
+
 | GitHub Streak Stats| GitHub Contribution |
+|:---:|:---:|
 | <img src="https://nirzak-streak-stats.vercel.app/?user=mdasif-me&theme=dark&hide_border=true&background=0D1117" /> | <img src="https://github-contributor-stats.vercel.app/api?username=mdasif-me&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" /> |
+
 
 | GitHub Activity Graph |
 |:---:|
