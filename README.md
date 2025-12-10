@@ -23,10 +23,6 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 ![](https://komarev.com/ghpvc/?username=mdasif-me)
 
 
-| Top Languages | GitHub Stats | Productive Time |
-|:---:|:---:|:---:|
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdasif-me&theme=transparent" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdasif-me&theme=transparent" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdasif-me&theme=transparent" /> 
-
 | GitHub Streak Stats| GitHub Contribution |
 |:---:|:---:|
 | <img src="https://nirzak-streak-stats.vercel.app/?user=mdasif-me&theme=dark&hide_border=true&background=0D1117" /> | <img src="https://github-contributor-stats.vercel.app/api?username=mdasif-me&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" /> |
