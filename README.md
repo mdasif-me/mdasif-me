@@ -1,17 +1,10 @@
-Seasoned Mid Level Frontend Developer with 4+ years of expertise in crafting responsive, highperformance web applications. Proficient in React, TypeScript, and modern CSS frameworks, with a
-strong focus on accessibility, UX optimization, scalable architecture, and effective problem solving.
-Spearheaded a project that improved load times by 40%, resulting in a 25% increase in user
-engagement. Skilled in mentoring junior developers and working with cross-functional teams to
-deliver innovative solutions. 
+Software development is not just my profession. It is the fire that fuels my creativity and shapes every step of my journey. I am driven by a passion for transforming abstract ideas into tangible high-performance solutions that truly resonate with users. Crafting digital experiences that are not only functional but also meaningful and human-centric is what excites me most. It is about building more than just software. It is about solving complex architectural challenges, pushing boundaries, and innovating in ways that make a real difference.
 
-- Component-Based Architecture Design
-- Progressive Web Application Development
-- Website Performance Optimization
-- Implementation of Unit and Integration Tests
-- Responsive, Mobile-First Web Application Development
-- Experience in Designing and Implementing RESTful APIs
-- Strong Collaboration Skills with Backend Developers
-- Familiarity with Modern Frontend Development Tools like Webpack and Babel
+I believe in technology’s ability to break barriers and create powerful connections that foster growth and positive change. From spearheading projects that slashed load times by 40 percent to driving a 25 percent increase in user engagement, every line of code I write is an opportunity to create something unique that inspires, uplifts, and moves people forward. Through my work on Aungsha, a real estate micro-investment platform, I aim to contribute to a more connected world where technology is a tool for good, innovation is constant, and the future is shaped by what we create today.
+
+I specialize in architecting scalable, accessible, and responsive systems using React, Next.js 16, TypeScript, and modern CSS frameworks. My approach combines Component-Based Architecture with Progressive Web App principles to ensure seamless experiences across all devices. Whether it is optimizing performance, implementing rigorous unit and integration tests, or collaborating with backend teams to design robust RESTful APIs, I am committed to excellence.
+
+My vision is to empower teams and users alike. I believe in the power of mentoring junior developers and fostering a culture of strong collaboration to deliver innovative solutions that stand the test of time. Every project is a chance to build a better digital future where technology serves humanity, accessibility is non-negotiable, and every interaction feels personal and purposeful.
 
 
 [![Languages & Frontend Frameworks](https://skillicons.dev/icons?i=js,ts,html,react,next,vue,svelte,astro,nuxt,redux,apollo,graphql)](https://skillicons.dev) <br/>
