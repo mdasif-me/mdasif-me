@@ -25,7 +25,7 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 
 | GitHub Streak Stats| GitHub Contribution |
 |:---:|:---:|
-| <img src="https://nirzak-streak-stats.vercel.app/?user=mdasif-me&theme=dark&hide_border=true&background=0D1117" /> | <img src="https://github-contributor-stats.vercel.app/api?username=mdasif-me&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" /> |
+| <img src="https://streak-stats.demolab.com?user=mdasif-me&theme=transparent&hide_border=true" /> | <img src="https://github-contributor-stats.vercel.app/api?username=mdasif-me&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" /> |
 
 
 | GitHub Activity Graph |
