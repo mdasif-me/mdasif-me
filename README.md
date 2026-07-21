@@ -7,16 +7,13 @@ I specialize in architecting scalable, accessible, and responsive systems using 
 My vision is to empower teams and users alike. I believe in the power of mentoring junior developers and fostering a culture of strong collaboration to deliver innovative solutions that stand the test of time. Every project is a chance to build a better digital future where technology serves humanity, accessibility is non-negotiable, and every interaction feels personal and purposeful.
 
 
+[![Languages & Frontend Frameworks](https://skillicons.dev/icons?i=js,ts,html,react,next,vue,svelte,astro,nuxt,redux,apollo,graphql)](https://skillicons.dev) <br/>
+[![Languages & Frontend Frameworks](https://skillicons.dev/icons?i=css,scss,less,tailwind,babel,jest,git,github,aws,azure,docker,githubactions)](https://skillicons.dev) <br/>
 
 **Let’s Connect:**  
 I’m always eager to collaborate on system design challenges, backend engineering, and AI-driven innovations.
 
 ![](https://komarev.com/ghpvc/?username=mdasif-me)
-
-
-| GitHub Streak Stats| GitHub Contribution |
-|:---:|:---:|
-| <img src="https://streak-stats.demolab.com?user=mdasif-me&theme=transparent&hide_border=true" /> | <img src="https://github-contributor-stats.vercel.app/api?username=mdasif-me&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" /> |
 
 
 | GitHub Activity Graph |
@@ -26,4 +23,3 @@ I’m always eager to collaborate on system design challenges, backend engineeri
 | GitHub Activity Graph |
 |:---:|
 | <img src="https://github-trophies.vercel.app/?username=mdasif-me&theme=onestar&no-frame=true&bg_color=0D1117&margin-w=40&margin-h=20" /> |
-
