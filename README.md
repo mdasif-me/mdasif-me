@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muhammad%20Asif&fontSize=50&fontAlignY=40&color=0:00C4FF,100:3B82F6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muhammad%20Asif&fontSize=50&fontAlignY=40&color=0:9eff00,100:9eff00" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1700&color=00C4FF&center=true&vCenter=true&width=1000&lines=Web+Solutions+for+Growing+Businesses;Custom+Software+Built+Around+Your+Needs;Pixel-Perfect+User+Interfaces;Scalable+Backend+%26+API+Solutions;From+Idea+to+Product+Launch"
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1700&color=9eff00&center=true&vCenter=true&width=1000&lines=Web+Solutions+for+Growing+Businesses;Custom+Software+Built+Around+Your+Needs;Pixel-Perfect+User+Interfaces;Scalable+Backend+%26+API+Solutions;From+Idea+to+Product+Launch"
       alt="Typing SVG"
     />
   </a>
@@ -57,31 +57,6 @@ I specialize in
 - Performance Optimization
 - Technical Mentorship and Team Collaboration
 
-## What I Offer
-
-- Full Stack Product Development
-- Enterprise and ERP Systems
-- SaaS Product Engineering
-- Authentication and Security Systems
-- API Design and Integration
-- Performance and Scalability Optimization
-- Technical Mentorship and Team Collaboration
-
-## Why Choose Me
-
-- A Personalized Approach
-- Clear and Honest Communication
-- Practical Innovation
-- Results You Can Measure
-
-## Core Values
-
-- Craftsmanship
-- Adaptability
-- Ownership
-- Communication
-- Long Term Thinking
-
 ## Tech Stack
 
 | Category | Skills |
@@ -96,16 +71,16 @@ I specialize in
 <table>
 <tr>
 <td align="center" width="110">
-<a href="https://your-aungsha-link.com" target="_blank">
-<img src="https://placehold.co/80x80?text=Aungsha" width="80" height="80" style="border-radius:10px;"/>
+<a href="https://aungsha.com" target="_blank">
+<img src="https://pub-2c367ec45bb7451a9465822fa0db02b8.r2.dev/logo/aungsha.svg" width="80" height="80" style="border-radius:10px;"/>
 </a>
 </td>
 <td>
 A real estate micro investment platform. It lets people invest in property in small amounts instead of buying a whole unit.
 <br/><br/>
-<b>Link:</b> <a href="https://your-aungsha-link.com" target="_blank">your-aungsha-link.com</a><br/>
-<b>Tech:</b> React, Next.js, Node.js, PostgreSQL<br/>
-<b>Highlight:</b> Built the full investment flow from onboarding to payouts
+<b>Link:</b> <a href="http://aungsha.com" target="_blank">aungsha.com</a><br/>
+<b>Tech:</b> Next.js, TypeScript, Shadcn, Tailwind CSS, Monolithic architecture<br/>
+<b>Highlight:</b> Built the full investment flow from onboarding to payouts, including the full resell from the marketplace flow
 </td>
 </tr>
 <tr>
