@@ -85,58 +85,30 @@ A real estate micro investment platform. It lets people invest in property in sm
 </tr>
 <tr>
 <td align="center" width="110">
-<a href="https://your-cotap-link.com" target="_blank">
-<img src="https://placehold.co/80x80?text=Cotap" width="80" height="80" style="border-radius:10px;"/>
+<a href="https://bayvoy.vercel.app" target="_blank">
+<img src="https://pub-2c367ec45bb7451a9465822fa0db02b8.r2.dev/logo/bayvoy.webp" width="80" height="80" style="border-radius:10px;"/>
 </a>
 </td>
 <td>
-An HR and time tracking tool. Teams use it to manage attendance and daily work hours.
+A full booking platform where users can search trips, book them, and manage everything in one place.
 <br/><br/>
-<b>Link:</b> <a href="https://your-cotap-link.com" target="_blank">your-cotap-link.com</a><br/>
-<b>Tech:</b> React, Node.js, MongoDB<br/>
-<b>Highlight:</b> Built attendance tracking used daily by real teams
+<b>Link:</b> <a href="https://bayvoy.vercel.app" target="_blank">bayvoy.vercel.app</a><br/>
+<b>Tech:</b> Next.js, TypeScript, MongoDB, Node.js, Express.js, SSL Commerz, Shadcn UI, Tailwind CSS<br/>
+<b>Highlight:</b> Built the end-to-end booking and payment flow
 </td>
 </tr>
 <tr>
 <td align="center" width="110">
-<a href="https://your-travel-link.com" target="_blank">
-<img src="https://placehold.co/80x80?text=Travel" width="80" height="80" style="border-radius:10px;"/>
-</a>
-</td>
-<td>
-A full booking platform where users can search trips book them and manage everything in one place.
-<br/><br/>
-<b>Link:</b> <a href="https://your-travel-link.com" target="_blank">your-travel-link.com</a><br/>
-<b>Tech:</b> Next.js, Node.js, MySQL<br/>
-<b>Highlight:</b> Built the end to end booking and payment flow
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<a href="https://your-library-link.com" target="_blank">
-<img src="https://placehold.co/80x80?text=Library" width="80" height="80" style="border-radius:10px;"/>
+<a href="https://www.digitallibrarium.com" target="_blank">
+<img src="https://pub-2c367ec45bb7451a9465822fa0db02b8.r2.dev/logo/digitallibrarium.svg" width="80" height="80" style="border-radius:10px;"/>
 </a>
 </td>
 <td>
 A nationwide digital library built for the government. It gives the public easy access to books and resources online.
 <br/><br/>
-<b>Link:</b> <a href="https://your-library-link.com" target="_blank">your-library-link.com</a><br/>
-<b>Tech:</b> React, Node.js, PostgreSQL<br/>
+<b>Link:</b> <a href="https://www.digitallibrarium.com" target="_blank">digitallibrarium.com</a><br/>
+<b>Tech:</b> React, Node.js, MongoDB<br/>
 <b>Highlight:</b> Delivered a public platform built to serve the whole country
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<a href="https://your-erp-link.com" target="_blank">
-<img src="https://placehold.co/80x80?text=ERP" width="80" height="80" style="border-radius:10px;"/>
-</a>
-</td>
-<td>
-A set of ERP systems built for large organizations to manage their day to day operations and permissions.
-<br/><br/>
-<b>Link:</b> <a href="https://your-erp-link.com" target="_blank">your-erp-link.com</a><br/>
-<b>Tech:</b> React, Node.js, MySQL<br/>
-<b>Highlight:</b> Designed role based access used across multiple departments
 </td>
 </tr>
 </table>
